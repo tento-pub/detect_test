@@ -7,10 +7,16 @@
         "overwatch.exe"
       ]
     },
-        {
+    {
       "name": "the test game",
       "executables": [
         "im_test_man.exe"
+      ]
+    },
+    {
+      "name": "the test game 222222222",
+      "executables": [
+        "2222222222im_test_man.exe"
       ]
     },
     {
